@@ -1,0 +1,276 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "X",
+      "main_ads_intertitial":"X",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "LESTI",
+    "image": "file:///android_asset/image/LS.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "LESTI",
+      "image": "file:///android_asset/image/LK.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "LESTI",
+    "title": "SEKALI SEUMUR HIDUP",
+    "image": "file:///android_asset/image/LS.jpg",
+    "link_mp3": "mp3/LESKADU1.mp3",
+    "lyrics": "<p>Kau hadir bagai dalam mimpi<br />Dan aku tak ingin terjaga lagi<br />Merangkai kisah seorang putri<br />Yang jatuh cinta pada sang pangeran</p><p><br />Andai engkau seorang raja<br />Aku ingin menjadi ratunya<br />Bersama hadapi dunia<br />Di kerajaan cinta kita berdua</p><p><br />Sekali seumur hidup<br />Cukup satu kali jangan berubah<br />Untuk selamanya<br />Seia sekata, cinta</p><p><br />Untuk apa harta dunia<br />Bila tak ada cinta yang menyerta<br />Masyhur dan semua kejayaan<br />Tak cukup membuat kita bahagia</p><p><br />Tulus kasih dan sehaluan<br />Berlabuh kita di dermaga impian<br />Jalani hidup tanpa dusta<br />Penuh cinta dan kasih sayang</p><p><br />Andai engkau seorang raja<br />Aku ingin menjadi ratunya<br />Bersama hadapi dunia<br />Di kerajaan cinta kita berdua</p><p><br />Sekali seumur hidup<br />Cukup satu kali jangan berubah<br />Untuk selamanya<br />Seia sekata, cinta</p><p><br />Untuk apa harta dunia<br />Bila tak ada cinta yang menyerta<br />Masyhur dan semua kejayaan<br />Tak cukup membuat kita bahagia</p><p><br />Tulus kasih dan sehaluan<br />Berlabuh kita di dermaga impian<br />Jalani hidup tanpa dusta<br />Penuh cinta dan kasih sayang</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "LESTI",
+    "title": "LENTERA",
+    "image": "file:///android_asset/image/LS.jpg",
+    "link_mp3": "mp3/LESKADU2.mp3",
+    "lyrics": "Wahai Pagi Mengajariku Artinya Kesejukan<br>Wahai Malam Mengajariku Artinya Keheningan<br>Dan Tuhanpun Percaya Menitipkan Kamu Padaku<br>Dan Ini Pun Mengajariku Cinta Tiada Batas<br><br>Denyutmu Ada Dalam Denyutku<br>Meskipun Sulit Ku Upayakan<br>Meraih Bintang Meraih Bulan Hanya Untukmu<br><br>Tak Kan Kubiarkan<br>Kegagalan Menyelimutimu<br>Kegelapan Mendampingimu<br>Akulah Lentera Dihidupmu<br><br>Bila Sendu Hadir<br>Ku Pasti Menggantikan Tempatmu<br>Jantungpun Pasti Akan Kuberi<br>Surgamu Ada Padaku<br><br>Denyutmu Ada Dalam Denyutku<br>Meskipun Sulit Ku Upayakan<br>Meraih Bintang Meraih Bulan Hanya Untukmu<br><br>Tak Kan Kubiarkan<br>Kegagalan Menyelimutimu<br>Kegelapan Mendampingimu<br>Akulah Lentera Dihidupmu<br><br>Bila Sendu Hadir<br>Ku Pasti Menggantikan Tempatmu<br>Jantungpun Pasti Akan Kuberi<br>Surgamu Ada Padaku<br>"
+  },
+  {
+    "id": 3,
+    "name_category": "LESTI",
+    "title": "TAKDIR CINTA",
+    "image": "file:///android_asset/image/LS.jpg",
+    "link_mp3": "mp3/LESKADU3.mp3",
+    "lyrics": "Bismillah Dengan Menyebut Nama Allah<br>Izinkan Aku, Mencintaimu<br>Di Jalan Yang Di Ridhoi-Nya<br>Bismillah Dengan Menyebut Nama Allah<br>Ku Doakan Dirimu, Menjadi Jodoh Ku<br>Imam Pemimpin Dalam Hidupku<br><br>Insya Allah Ku Jaga Dirimu<br>Dengan Seluruh Cintaku<br>Hidup Dan Matiku<br>Insya Allah Ku Jaga Kehormatanku<br>Menjadi Pendamping Dalam Sebuah Takdir Cinta<br><br>Dengan Ridho- Nya, Ku Ucap Janji Suci Kita Berdua<br><br>Insya Allah Ku Jaga Dirimu<br>Dengan Seluruh Cintaku<br>Hidup Dan Matiku<br>Insya Allah Ku Jaga Kehormatanku<br>Menjadi Pendamping Dalam Sebuah Takdir Cinta<br><br>Insya Allah Ku Jaga Dirimu<br>Dengan Seluruh Cintaku<br>Hidup Dan Matiku<br>Insya Allah Ku Jaga Kehormatanku<br><br>Menjadi Pendamping Dalam<br>Menjadi Pendamping Dalam<br>Sebuah Takdir Cinta<br>"
+  },
+  {
+    "id": 4,
+    "name_category": "LESTI",
+    "title": "BAWA AKU KE PENGHULU",
+    "image": "file:///android_asset/image/LS.jpg",
+    "link_mp3": "mp3/LESKADU4.mp3",
+    "lyrics": "Pucuk dicinta ulam pun tiba kata pepatah<br>Kubutuh cinta kamu pun datang aku bahagia<br>Pernah merasa sakitnya cinta hati kecewa<br>Lalu kau hadir aku terlena tiada berdaya<br><br>Bunga yang layu kini mekar kembali<br>Kau siram dengan cinta sepenuh hati<br>Ditinggal nikah kulepas dengan ikhlas<br>Gantinya kamu ikhlas membawa berkah<br><br>Aku siap jadi milikmu<br>Siapkah kau menjadi imamku<br><br>Aku takut fitnah dan dosa<br>Bila berdua-dua denganmu<br><br>Apa lagi yang kau tunggu<br>Jadikan aku halal untukmu<br>Ayah Ibu beri restu<br>Bawa aku ke penghulu<br><br>Pernah merasa sakitnya cinta hati kecewa<br>Lalu kau hadir aku terlena tiada berdaya<br><br>Bunga yang layu kini mekar kembali<br>Kau siram dengan cinta sepenuh hati<br>Ditinggal nikah kulepas dengan ikhlas<br>Gantinya kamu ikhlas membawa berkah<br>Aku siap jadi milikmu<br>Siapkah kau menjadi imamku<br><br>Aku takut fitnah dan dosa<br>Bila berdua-dua denganmu<br><br>Apa lagi yang kau tunggu<br>Jadikan aku halal untukmu<br>Ayah Ibu beri restu<br>Bawa aku ke penghulu<br<br>Bawa aku ke penghulu<br>Ho sayang<br>"
+  },
+  {
+    "id": 5,
+    "name_category": "LESTI",
+    "title": "PEMIMPINMU",
+    "image": "file:///android_asset/image/LS.jpg",
+    "link_mp3": "mp3/LESKADU5.mp3",
+    "lyrics": "Hai, gadis manis<br>Yang teramat manis<br>Yang membuatku gugup saat<br>Mencoba ucapkan<br><br>Selamat pagi, manis<br>Jangan terlalu manis<br>Tak selamanya ku bisa tenang<br>Tanpa ingin coba<br><br>Menggenggam tanganmu, selalu<br>Tuk melindungimu<br>Lama-lama ku kan ungkapkan<br><br>Pergilah denganku<br>Biar ku yang menjemputmu<br>Bicara denganku<br>Ku kan selalu mendengarmu<br><br>Berjalan denganku<br>Biar ku yang menuntunmu<br>Tetap bersamaku<br>Biar ku yang jadi pemimpinmu<br><br>Tenanglah sayang<br>Tak perlu kau bimbang<br>Telah aku kosongkan ruang<br>Di dalam hati<br><br>Untuk kau tempati, sayang<br>Kini ku yang tak tenang<br>Berharap kau mengangguk senang<br>Dan kau pun berkenan<br><br>Ku genggam tanganmu, selalu<br>Tuk melindungimu<br>Dengarkanlah yang kuungkapkan<br><br>Pergilah denganku<br>Biar ku yang menjemputmu<br>Bicara denganku<br>Ku kan selalu mendengarmu<br><br>Berjalan denganku<br>Biar ku yang menuntunmu<br>Tetap bersamaku<br>Biar ku yang jadi pemimpinmu<br>Wo-oo-ooohh<br><br>Pergilah denganku<br>Biar ku yang menjemputmu<br>Bicara denganku<br>Ku kan selalu mendengarmu<br><br>Berjalan denganku<br>Biar ku yang menuntunmu<br>Tetap bersamaku (bersamaku)<br>Tetap bersamaku<br>Biar ku yang jadi pemimpinmu<br>"
+  },
+  {
+    "id": 6,
+    "name_category": "LESTI",
+    "title": "BISMILLAH CINTA",
+    "image": "file:///android_asset/image/LS.jpg",
+    "link_mp3": "mp3/LESKADU6.mp3",
+    "lyrics": "Tak dapat lagi kulukis rasa<br>Ramadhan yang indah kini telah tiba<br>Bulan penuh berkah rahmat dari Allah<br>Meski dalam suasana berbeda<br><br>Cobaan demi cobaan melanda<br>Kita bersama namun tak lagi sama<br>Jarak memisahkan semua telah berbatas<br>Ini ujian bagi kita<br><br>Bismillah cinta<br>Percaya padaku percaya cinta<br>Yakin kita bisa lalui semua<br>Segala cobaan yang datang mendera<br><br>Bismillah cinta<br>Panjatkan doa pada yang kuasa<br>Bersujud padanya dengan air mata<br>Insya Allah Ramadhan membawa hikmah<br><br>Bismillah cinta<br>Percaya kita<br>Bismillah cinta<br>Percaya cinta<br><br>Bismillah cinta percaya padaku percaya cinta<br>Yakin kita bisa lalui semua<br>Segala cobaan yang datang mendera<br>Bismillah cinta panjatkan doa pada yang kuasa<br>Bersujud padanya dengan air mata<br>Insya Allah Ramadhan membawa hikmah<br><br>Bismillah cinta percaya padaku percaya cinta<br>Yakin kita bisa lalui semua<br>Segala cobaan yang datang mendera<br><br>Bismillah cinta panjatkan doa pada yang kuasa<br>Bersujud padanya dengan air mata<br>Insya Allah Ramadhan membawa hikmah<br>Ha ha<br>Bismillah cinta<br>Bismillah cinta<br>"
+  },
+  {
+    "id": 7,
+    "name_category": "LESTI",
+    "title": "KU INGIN",
+    "image": "file:///android_asset/image/LS.jpg",
+    "link_mp3": "mp3/LESKADU7.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 8,
+    "name_category": "LESTI",
+    "title": "HADIRMU BAGAI MIMPI",
+    "image": "file:///android_asset/image/LS.jpg",
+    "link_mp3": "mp3/LESKADU8.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 9,
+    "name_category": "LESTI",
+    "title": "MATI GAYA",
+    "image": "file:///android_asset/image/LS.jpg",
+    "link_mp3": "mp3/LESKADU9.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "LESTI",
+    "title": "SAAT TERAKHIR",
+    "image": "file:///android_asset/image/LS.jpg",
+    "link_mp3": "mp3/LESKADU10.mp3",
+    "lyrics": "Tak pernah terpikir olehku<br>Tak sedikit pun kubayangkan<br>Kau akan pergi tinggalkanku sendiri<br><br>Begitu sulit kubayangkan<br>Begitu sakit kurasakan<br>Kau akan pergi tinggalkanku sendiri<br><br>Di bawah batu nisan kini<br>Kau t'lah sandarkan<br>Kasih sayang kamu begitu dalam<br>Sungguh 'ku tak sanggup ini terjadi<br>Karena 'ku sangat cinta<br><br>Inilah saat terakhirku melihat kamu<br>Jatuh air mataku menangis pilu<br>Hanya mampu ucapkan<br>Selamat jalan, kasih<br><br>Satu jam saja 'ku telah bisa<br>Cintai kamu, kamu, kamu di hatiku<br>Namun bagiku melupakanmu<br>Butuh waktuku seumur hidup<br><br>Satu jam saja 'ku telah bisa<br>Sayangi kamu di hatiku<br>Namun bagiku melupakanmu<br>Butuh waktuku seumur hidup<br><br>Hooo, di nantiku<br><br>Inilah saat terakhirku melihat kamu<br>Jatuh air mataku menangis pilu<br>Hanya mampu ucapkan<br>Selamat jalan, kasih<br><br>Satu jam saja 'ku telah bisa<br>Cintai kamu, kamu, kamu di hatiku<br>Namun bagiku melupakanmu<br>Butuh waktuku seumur hidup<br><br>Satu jam saja 'ku telah bisa<br>Sayangi kamu di hatiku<br>Namun bagiku lupakanmu<br>Butuh waktuku seumur hidup, hoo<br>"
+  },
+  {
+    "id": 11,
+    "name_category": "LESTI",
+    "title": "KULEPAS DENGAN IKHLAS",
+    "image": "file:///android_asset/image/LS.jpg",
+    "link_mp3": "mp3/LESKADU11.mp3",
+    "lyrics": "<p>Selamat kuucapkan padamu<br />Wahai orang yang pernah paling aku sayang<br />Kulepas dirimu dengan ikhlas<br />Moga Tuhan jagakan dirimu dan dia</p><p><br />Kudatang memberikan selamat<br />Walau langkah kaki gamang<br />Untuk kamu aku datang<br />Semoga dirimu bahagia</p><p><br />Kulepas dirimu dengan ikhlas<br />Semoga engkau dan dia bahagia</p><p><br />Dulu kita pernah berbagi rasa<br />Kini kita hanya teman yang biasa</p><p><br />Dulu kita bisa berencana<br />Tapi Tuhanlah yang menakdirkan</p><p><br />Hidup terus berjalan<br />Engkau tlah ku relakan<br />Pada Tuhan semua<br />Ku pasrahkan</p><p><br />Selamat kuucapkan padamu<br />Wahai orang yang pernah paling aku sayang</p><p><br />Oh oh oh oh</p><p><br />Dulu kita pernah berbagi rasa<br />Kini kita hanya teman yang biasa</p><p><br />Dulu kita bisa berencana<br />Tapi Tuhanlah yang menakdirkan</p><p><br />Hidup terus berjalan<br />Engkau tlah ku relakan<br />Pada Tuhan semua<br />Ku pasrahkan</p><p><br />Kulepas dirimu dengan ikhlas<br />Semoga engkau dan dia bahagia</p>"
+  },
+  {
+    "id": 12,
+    "name_category": "LESTI",
+    "title": "MELIHATMU BAHAGIA",
+    "image": "file:///android_asset/image/LS.jpg",
+    "link_mp3": "mp3/LESKADU12.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "name_category": "LESTI",
+    "title": "TIRANI",
+    "image": "file:///android_asset/image/LS.jpg",
+    "link_mp3": "mp3/LESKADU13.mp3",
+    "lyrics": "<p>Akhirnya aku tak sanggup lagi<br />Untuk tetap bertahan hidup begini<br />Cukuplah cukup sampai di sini<br />Silahkan saja bila kau ingin pergi</p><p><br />Terlalu lama<br />Terlalu banyak<br />Terlalu sering<br />Kau sakiti hati ini<br />Hanya karena ego diri</p><p><br />Kasih<br />Akhirnya<br />Akhirnya<br />Aku tak sanggup mendampingi dirimu</p><p>Ha ha</p><p><br />Lelah kusembunyi<br />Di balik senyumku<br />Hanya karena tak ingin ada<br />Pertengkaran di antara kita berdua</p><p><br />Lelah kumenanti<br />Hilangnya tirani<br />Namun hatimu tak bernurani<br />Bak berharap hujan di terik sang mentari</p><p><br />Puaskanlah<br />Puaskanlah<br />Selagi nafas masih ada</p><p><br />Sekarang<br />Silahkan engkau pergi<br />Kejarlah semua mimpi-mimpi indahmu</p><p><br />Terlalu lama<br />Terlalu banyak<br />Terlalu sering<br />Kau sakiti hati ini<br />Hanya karena ego diri</p><p><br />Kasih<br />Akhirnya<br />Akhirnya<br />Aku tak sanggup mendampingi dirimu</p><p><br />Ha ha</p><p><br />Lelah kusembunyi<br />Di balik senyumku<br />Hanya karena tak ingin ada<br />Pertengkaran di antara kita berdua</p><p><br />Lelah kumenanti<br />Hilangnya tirani<br />Namun hatimu tak bernurani<br />Bak berharap hujan di terik sang mentari</p><p><br />Puaskanlah<br />Puaskanlah<br />Selagi nafas masih ada</p><p><br />Oh masih ada</p>"
+  },
+  {
+    "id": 14,
+    "name_category": "LESTI",
+    "title": "IBU",
+    "image": "file:///android_asset/image/LS.jpg",
+    "link_mp3": "mp3/LESKADU14.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "LENGKAP",
+    "title": "ADA CERITA",
+    "image": "file:///android_asset/image/LK.jpg",
+    "link_mp3": "mp3/LESKADU15.mp3",
+    "lyrics": "<p>Hapus air mata yang mengalir di wajahmu<br />Tak perlu kau bersedih<br />Cinta tak mungkin bisa tuk melebur menjadi satu<br />Karena kita berdua berbeda</p><p><br />Jangan tanyakan mengapa<br />Aku pun tak ada jawabnya<br />Bisa kau tangisi lagi<br />Biarlah berlalu</p><p><br />Dalam hatiku takkan mungkin hilang<br />Meski dirimu tak lagi bersamaku<br />Ada cerita di kehidupan nanti<br />Kita bertemu<br />Kan kupastikan kita bersatu</p><p><br />Nana</p><p><br />Semua kisah di antara kita<br />Kan kujaga seumur hidupku</p><p><br />Dalam hatiku takkan mungkin hilang<br />Meski dirimu tak lagi bersamaku<br />Ada cerita di kehidupan nanti<br />Kita bertemu<br />Kan kupastikan kita bersatu</p><p><br />Dalam hatiku takkan mungkin hilang<br />Meski dirimu tak lagi bersamaku<br />Ada cerita di kehidupan nanti<br />Kita bertemu<br />Kan kupastikan kita bersatu hu</p>"
+  },
+  {
+    "id": 16,
+    "name_category": "LENGKAP",
+    "title": "EGOIS AKU PERGI",
+    "image": "file:///android_asset/image/LK.jpg",
+    "link_mp3": "mp3/LESKADU16.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "LENGKAP",
+    "title": "CITRA DAN CINTA",
+    "image": "file:///android_asset/image/LK.jpg",
+    "link_mp3": "mp3/LESKADU17.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "LENGKAP",
+    "title": "KEJORA",
+    "image": "file:///android_asset/image/LK.jpg",
+    "link_mp3": "mp3/LESKADU18.mp3",
+    "lyrics": "<p>Kejora, temanilah malamku<br />Sampaikan rinduku yang terlarang<br />Dia yang kucinta, kini t'lah berdua<br />Tak mampu diriku menahan rindu padanya</p><p><br />Kejora, pancarkanlah sinarmu<br />Temani keheningan malamku<br />Padamu kejora, kutitipkan rindu<br />Untuknya yang kini jauh di mata</p><p><br />Kuberkhayal, angankan dirimu<br />Seakan hadir di sini<br />Temaniku, memelukmu<br />Indah dalam belai kasih sayang</p><p><br />Tak terganti rasa cinta ini<br />Meski kini kau tak sendiri<br />Sisa cinta 'kan jadi cerita<br />Tersimpan selamanya bersama kejora</p><p><br />Kejora, sampaikan rindu ini</p><p><br />Kejora, pancarkanlah sinarmu<br />Temani keheningan malamku<br />Padamu kejora, kutitipkan rindu<br />Untuknya yang kini jauh di mata</p><p><br />Kuberkhayal, angankan dirimu<br />Seakan hadir di sini<br />Temaniku, memelukmu<br />Indah dalam belai kasih sayang</p><p><br />Tak terganti rasa cinta ini<br />Meski kini kau tak sendiri<br />Sisa cinta 'kan jadi cerita<br />Tersimpan selamanya bersama kejora</p><p><br />Kejora, sampaikan rindu ini</p>"
+  },
+  {
+    "id": 19,
+    "name_category": "LENGKAP",
+    "title": "EGOIS",
+    "image": "file:///android_asset/image/LK.jpg",
+    "link_mp3": "mp3/LESKADU19.mp3",
+    "lyrics": "<p>Harusnya tak begini<br />Diantara kau dan aku<br />Sama-sama bertahan<br />Hanya kar'na satu<br />Ego sendiri (ooh)</p><p><br />Sering kita sembunyi<br />Di balik sikap dan kata<br />Padahal hati kita<br />Tak ingin saling menyakiti</p><p><br />Mengapa tak mencoba, jujur<br />Pada hati kita, kasih<br />Bahwa sesungguhnya<br />Engkau dan aku<br />Takut berpisah (woah-oh)</p><p><br />Seandainya saja, mau<br />Sedikit mengalah, kasih<br />Pertengkaran ini<br />Tak mungkin ada<br />Selamanya</p><p><br />Sering kita sembunyi<br />Dibalik sikap dan kata<br />Padahal hati kita<br />Tak ingin saling menyakiti</p><p>Mengapa tak mencoba, jujur<br />Pada hati kita, kasih<br />Bahwa sesungguhnya<br />Engkau dan aku<br />Takut berpisah (woah-oh)</p><p><br />Seandainya saja, mau<br />Sedikit mengalah, kasih<br />Pertengkaran ini<br />Tak mungkin ada<br />Selamanya</p>"
+  },
+  {
+    "id": 20,
+    "name_category": "LENGKAP",
+    "title": "PERTEMUAN",
+    "image": "file:///android_asset/image/LK.jpg",
+    "link_mp3": "mp3/LESKADU20.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "LENGKAP",
+    "title": "PURNAMA",
+    "image": "file:///android_asset/image/LK.jpg",
+    "link_mp3": "mp3/LESKADU21.mp3",
+    "lyrics": "<p>Kurindu purnama lalu<br />Berpayung kabut asmara<br />Hingga kini masih kurasakan<br />Meski kini kau telah sirna</p><p><br />Kecup lembut di keningku<br />Nafas cintamu cintaku<br />Semakin dalam rinduku benderang<br />Kala kulihat purnama</p><p><br />Hening di ujung malamku<br />Berselimut sepi ku merindukanmu</p><p><br />Memendam rindu aku di sini<br />Menanti cintamu kembali<br />Pedih hatiku tersayat rindu<br />Terbayang kenangan saat bersamamu</p><p><br />Kala purnama menghampiriku<br />Tak tertahan linang air mata<br />Semakin dalam rindu kupendam<br />Wahai purnama berilah aku terang<br />Purnama<br />Purnama</p><p><br />Hening di ujung malamku<br />Berselimut sepi ku merindukanmu</p><p><br />Memendam rindu aku di sini<br />Menanti cintamu kembali<br />Pedih hatiku tersayat rindu<br />Terbayang kenangan saat bersamamu</p><p><br />Kala purnama menghampiriku<br />Tak tertahan linang air mata<br />Semakin dalam rindu kupendam<br />Wahai purnama berilah aku terang</p><p><br />Purnama</p>"
+  },
+  {
+    "id": 22,
+    "name_category": "LENGKAP",
+    "title": "LEBIH DARI SELAMANYA",
+    "image": "file:///android_asset/image/LK.jpg",
+    "link_mp3": "mp3/LESKADU22.mp3",
+    "lyrics": "<p>Ku akan menyayangmu<br />Sampai waktu memangggilku<br />Selalu menjagamu<br />Janjiku pada Tuhanku</p><p><br />Aku terlanjur teramat sayang padamu<br />Aku tak sanggup bila harus berpisah darimu kekasihku</p><p><br />Ku akan menyayangmu<br />Sampai waktu memanggilku</p><p><br />Ha ha ha</p><p><br />Hari terus berganti<br />Kutakut engkau pergi<br />Kau telah kumiliki<br />Tak akan kulepas lagi</p><p><br />Roda hidup berputar<br />Suka terkadang duka<br />Asal bersamamu kurela<br />Dan menerima</p><p><br />Terima kasih cinta<br />Atas segala rasa<br />Semoga selalu bersama<br />Lebih dari selamanya</p><p><br />Ku akan menyayangmu<br />Sampai waktu memanggilku</p><p><br />Ha ha ha</p><p><br />Hari terus berganti<br />Kutakut engkau pergi<br />Kau telah kumiliki<br />Tak akan kulepas lagi</p><p><br />Roda hidup berputar<br />Suka terkadang duka<br />Asal bersamamu kurela<br />Dan menerima</p><p><br />Terima kasih cinta<br />Atas segala rasa<br />Semoga selalu bersama<br />Lebih dari selamanya</p><p><br />Oh selamanya (selamanya oh)<br />Lebih dari selamanya</p>"
+  },
+  {
+    "id": 23,
+    "name_category": "LENGKAP",
+    "title": "TAK DAPAT TIDUR",
+    "image": "file:///android_asset/image/LK.jpg",
+    "link_mp3": "mp3/LESKADU23.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "LENGKAP",
+    "title": "BUKA MATA HATI",
+    "image": "file:///android_asset/image/LK.jpg",
+    "link_mp3": "mp3/LESKADU24.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "LENGKAP",
+    "title": "ZAPIN MELAYU",
+    "image": "file:///android_asset/image/LK.jpg",
+    "link_mp3": "mp3/LESKADU25.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "LENGKAP",
+    "title": "AKU PERGI",
+    "image": "file:///android_asset/image/LK.jpg",
+    "link_mp3": "mp3/LESKADU26.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 27,
+    "name_category": "LENGKAP",
+    "title": "BUKAN CINTA BIASA",
+    "image": "file:///android_asset/image/LK.jpg",
+    "link_mp3": "mp3/LESKADU27.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 28,
+    "name_category": "LENGKAP",
+    "title": "CUMA KAMU",
+    "image": "file:///android_asset/image/LK.jpg",
+    "link_mp3": "mp3/LESKADU28.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 29,
+    "name_category": "LENGKAP",
+    "title": "MATI GAYA",
+    "image": "file:///android_asset/image/LK.jpg",
+    "link_mp3": "mp3/LESKADU29.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 30,
+    "name_category": "LENGKAP",
+    "title": "MAWAR PUTIH",
+    "image": "file:///android_asset/image/LK.jpg",
+    "link_mp3": "mp3/LESKADU30.mp3",
+    "lyrics": ""
+  }
+  ]
+}
