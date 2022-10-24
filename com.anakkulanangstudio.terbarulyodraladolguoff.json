@@ -1,0 +1,252 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "X",
+      "main_ads_intertitial":"X",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "image": "file:///android_asset/image/LYD.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "LENGKAP",
+      "image": "file:///android_asset/image/LYY.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "title": "SANG DEWI",
+    "image": "file:///android_asset/image/LYD.jpg",
+    "link_mp3": "mp3/LYLEDO1.mp3",
+    "lyrics": "<p>Walaupun jiwaku pernah terluka<br />Hingga nyaris bunuh diri<br />Wanita mana yang sanggup hidup sendiri<br />Di dunia ini</p><p><br />Walaupun t'lah kututup mata hati<br />Begitupun telingaku<br />Namun bila di kala cinta memanggilmu<br />Dengarlah ini</p><p><br />Walaupun dirimu tak bersayap<br />'Ku akan percaya<br />Kau mampu terbang bawa diriku<br />Tanpa takut dan ragu</p><p><br />Walaupun mulutku pernah bersumpah<br />Tak sudi lagi jatuh cinta<br />Wanita seperti diriku pun ternyata<br />Mudah menyerah</p><p><br />Walaupun kau bukan titisan dewa<br />'Ku takkan kecewa<br />Karena kau jadikan 'ku sang dewi<br />Dalam taman surgawi</p><p><br />Oh-oh-oh, oh, oh, oh, oh<br />Dalam taman surgawi<br />Dalam taman surgawi<br />Oh-oh-oh-oh-oh</p><p><br />Walaupun dirimu tak bersayap<br />'Ku akan percaya<br />Kau mampu terbang bawa diriku<br />Tanpa takut dan ragu<br />Walaupun kau bukan titisan dewa<br />'Ku takkan kecewa<br />Karena kau jadikanku sang dewi<br />Dalam taman surgawi<br />Ooh</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "TERBARU",
+    "title": "HEAVEN",
+    "image": "file:///android_asset/image/LYD.jpg",
+    "link_mp3": "mp3/LYLEDO2.mp3",
+    "lyrics": "<p>I used to count the stars in the sky<br />Now I count the ones in your eyes<br />I used to think that my paradise<br />Was somewhere waiting on the other side, but you, ooh, ooh<br />Take me higher than I've been<br />Laying hands on my skin, it's true, ooh, ooh<br />Nothing compares to you</p><p><br />So tell me why, what good is life<br />If we're all just waiting to dance in the sky?<br />I'm already there, here in your eyes<br />We climb the gates, every time that you lie down next to mе</p><p><br />I rest in peace<br />Thеy say it's better, but how could that be?<br />If everyone had a love like us<br />They wouldn't call that place above, Heaven</p><p><br />Waking up to you feels like a pinch-myself moment<br />If we're only here for a while<br />I wanna spend all of it holding you, ooh, ooh<br />Take me higher than I've been<br />Got me questioning everything I knew, ooh, ooh<br />'Cause nothing compares to you</p><p><br />So tell me why, what good is life<br />If we're all just waiting to dance in the sky?<br />I'm already there, here in your eyes<br />We climb the gates, every time that you lie down next to mе</p><p>I rest in peace<br />Thеy say it's better, but how could that be?<br />If everyone had a love like us<br />They wouldn't call that place above, Heaven</p><p><br />Nothing comes, nothing comes close to this<br />Lookin' up, lookin' up even if it exists<br />My heaven is on your lips</p><p><br />So tell me why, what good is life<br />If we're all just waiting to dance in the sky?<br />I'm already there, here in your eyes<br />We climb the gates, every time that you lie down next to mе</p><p><br />I rest in peace<br />Thеy say it's better, but how could that be?<br />If everyone had a love like us<br />They wouldn't call that place above, Heaven</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "TERBARU",
+    "title": "PESAN TERAKHIR",
+    "image": "file:///android_asset/image/LYD.jpg",
+    "link_mp3": "mp3/LYLEDO3.mp3",
+    "lyrics": "Tlah kucoba trus bertahan<br>Tentang cinta yang kurasa<br>Ku mencinta, kau tak cinta<br>Tak sanggup ku terus bertahan<br><br>Sadar ku tak berhak untuk terus memaksamu<br>Memaksamu mencintaiku sepenuh hati<br>Aku kan berusaha untuk melupakanmu<br>Tapi terimalah permintaan terakhirku<br><br>Genggam tanganku, sayang<br>Dekat denganku, peluk diriku<br>Berdiri tegak di depan aku<br>Cium keningku tuk yang terakhir<br><br>Ku kan menghilang jauh darimu<br>Tak terlihat sehelai rambut pun<br>Tapi di mana nanti kau terluka<br>Cari aku, ku ada untukmu, ho-oh<br><br>Ku tak membencimu<br>Kuharap kau pun begitu, ha-ah kuharap begitu, yeah, yeay<br>Tak ingin kau jauh<br>Tapi takdir menginginkan kita tuk berpisah<br><br>Genggam tanganku, sayang<br>Dekat denganku, peluk diriku<br>Berdiri tegak di depan aku<br>Cium keningku tuk yang terakhir<br><br>Ku kan menghilang jauh darimu<br>Tak terlihat sehelai rambut pun<br>Tapi di mana nanti kau terluka<br>Cari aku, ku ada untukmu<br><br>Ho-oh<br>Dekat denganku, peluk diriku Oh-oh<br>Berdiri tegak di depan aku<br>Cium keningku tuk yang terakhir<br><br>Ku kan menghilang jauh darimu<br>Tak terlihat sehelai rambut pun<br>Tapi di mana nanti kau terluka<br>Cari aku, ku ada untukmu<br>Tapi di mana nanti kau terluka<br>Cari aku, ku ada untukmu<br>"
+  },
+  {
+    "id": 4,
+    "name_category": "TERBARU",
+    "title": "DIBANDING DIA",
+    "image": "file:///android_asset/image/LYD.jpg",
+    "link_mp3": "mp3/LYLEDO4.mp3",
+    "lyrics": "Untuk kamu setengah nyawaku<br>Ku tahu kau bukan milikku<br>Terkadang bermimpi lagi<br>Engkau nanti milikku<br><br>Untuk kamu peluluh hatiku<br>Yang juga patahkan hatiku<br>Ku sadar aku yang salah<br>Mendalami hidupmu<br><br>Bila ku tak buat bahagia<br>Acuhkanlah aku<br>Sungguh aku lebih mencintaimu dibanding dia<br>Aku bakal buktikan perasaanku seutuhnya<br>Sungguh aku lebih mendalamimu dibanding diaAku mohon padamu dengarkanlah bisikanku<br><br>Untuk kamu doa di malamku<br>Selalu ku ucap namamu<br>Bila ku tak buat bahagia<br>Selesaikan aku<br><br>Sungguh aku lebih mencintaimu dibanding dia<br>Aku bakal buktikan perasaanku seutuhnya<br>Sungguh aku lebih mendalamimu dibanding dia<br>Aku mohon padamu dengarkanlah bisikanku<br>Dengarkanlah ha bisikanku<br>Mencintaimu di banding dia<br>"
+  },
+  {
+    "id": 5,
+    "name_category": "TERBARU",
+    "title": "KALAU BOSAN",
+    "image": "file:///android_asset/image/LYD.jpg",
+    "link_mp3": "mp3/LYLEDO5.mp3",
+    "lyrics": "Wajar dalam hubungan<br>Cinta kadang memang naik turun<br>Hati yang punya peranan<br>Untuk lebih saling pengertian<br><br>Kalau kamu bosan<br>Jangan menghilang<br>Kalau kamu bosan<br>Kamu bisa bilang<br>Tapi kalau bosan<br>Jangan kamu cari peluang<br>Aku di sini takut kamu hilang<br><br>Ikuti saja alurnya<br>Bila jenuh tak ada salahnya<br>Ingat kenangan berdua<br>Tawa luka kita hadapi bersama<br><br>Kalau kamu bosan<br>Jangan menghilang<br>Kalau kamu bosan<br>Kamu bisa bilang<br>Tapi kalau bosan<br>Jangan kamu cari peluang<br>Aku di sini takut kamu hilang<br><br>Kalau kamu bosan<br>Jangan menghilang<br>Kalau kamu bosan<br>Kamu bisa bilang<br>Tapi kalau bosan<br>Jangan kamu cari peluang<br>Ku di sini takut kamu hilang<br>Ku di sini masih ada sayang<br>Kalau kamu bosan<br>Jangan menghilang<br>"
+  },
+  {
+    "id": 6,
+    "name_category": "TERBARU",
+    "title": "SABDA RINDU",
+    "image": "file:///android_asset/image/LYD.jpg",
+    "link_mp3": "mp3/LYLEDO6.mp3",
+    "lyrics": "Malam-malam tak berbintang<br>Jadi terang menantikanmu<br>Malam-malam kau ajak berbincang<br>Tanya apa kabarku<br><br>Pipiku merona ku tersipu malu<br>Hanya mendengar hangat suaramu<br><br>Kangen dirimu<br>Ingat selalu hati kita satu<br>Meski engkau jauh<br>Mari nikmati sabda rindu yang melagu<br><br>Ingat sayang meski tak bertemu<br>Indahnya merindu<br>Beri senyuman<br>Detak di jantungku<br><br>Malam-malam tak berbintang<br>Ku merindu ingin berjumpa dirimu<br>Oh bunyi dering rindu obati sakitnya<br>Lama kita tak bertemu<br><br>Pipiku merona ku tersipu malu<br>Hanya mendengar hangat suaramu<br><br>Kangen dirimu<br>Ingat selalu hati kita satu<br>Meski engkau jauh<br>Mari nikmati sabda rindu yang melagu<br><br>Ingat sayang meski tak bertemu<br>Indahnya merindu<br>Beri senyuman<br>Detak di jantungku<br><br>Oh-oo-oo<br>Ku menanti Ku menanti<br>Hati ini menunggu Oh-oo<br>Dirimu Oh-oo-oo<br><br>Meski jauh, kau dekat di hatiku<br>Nimatnya rindu kangen dirimu<br><br>Ingat selalu hati kita satu<br>Meski engkau jauh<br>Mari nikmati sabda rindu yang melagu<br><br>Ingat sayang meski tak bertemu<br>Indahnya merindu<br>Beri senyuman<br>Detak di jantungku, ho<br><br>Ingat selalu hati kita satu<br>Meski jauh kau ada di hatiku<br>Nikmatilah sabda rindu<br>Sabda rindu yang melagu<br><br>Ingat selalu hati kita satu<br>Meski jauh kau ada di hatiku<br>Nikmatilah sabda rindu<br>Sabda rindu yang melagu<br>Sayang<br>Sayang<br>"
+  },
+  {
+    "id": 7,
+    "name_category": "TERBARU",
+    "title": "TETANG KAMU",
+    "image": "file:///android_asset/image/LYD.jpg",
+    "link_mp3": "mp3/LYLEDO7.mp3",
+    "lyrics": "<p>Berjam-jam aku terdiam<br />Menatap buku catatan<br />Aku sedang berencana<br />Menulis puisi tersendu tentang kamu<br />Hm-mm-mm</p><p><br />Semakin ku berusaha<br />Semakin aku tak bisa<br />Pura-pura sedang gundah<br />Bukanlah hal yang mudah</p><p><br />Ternyata aku tak bisa<br />Sembunyikan bahagia (sembunyikan bahagia)<br />Dan bila ada orang bertanya-tanya<br />Siapakah dia yang membuatku bahagia?<br />Kamulah orangnya</p><p><br />Ha-a-ha-a-a ...</p><p><br />Kamu memang luar biasa (luar biasa)<br />Tak sama dengan lainnya (hu-hu-hu ...)<br />Aku selalu tertawa<br />Hingga lupa rasanya<br />Pahit getir kecewa</p><p><br />Ternyata aku tak bisa<br />Sembunyikan bahagia (sembunyikan bahagia)<br />Dan bila ada orang bertanya-tanya<br />Siapakah dia yang membuatku bahagia?<br />Kamulah orangnya<br />Kamulah orangnya</p><p><br />Ternyata pada akhirnya<br />Aku tak bisa berdusta<br />Bukan hal yang sederhana<br />Menulis puisi tersendu tentang kamu</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "TERBARU",
+    "title": "MENGAPA KITA",
+    "image": "file:///android_asset/image/LYD.jpg",
+    "link_mp3": "mp3/LYLEDO8.mp3",
+    "lyrics": "<p>Aku t'lah tahu kita memang tak mungkin<br />Tapi mengapa kita selalu bertemu?<br />Aku t'lah tahu hati ini harus menghindar<br />Namun kenyataan ku tak bisa<br />Maafkan aku terlanjur mencinta<br />Hm-mm</p><p><br />Senyuman itu hanyalah menunda luka<br />Yang tak pernah kuduga<br />Dan bila akhirnya kau harus dengannya<br />Mengapa kau dekati aku?</p><p><br />Kau membuat semuanya indah<br />Seolah takkan terpisah</p><p><br />Aku t'lah tahu kita memang tak mungkin<br />Tapi mengapa kita selalu bertemu?<br />Aku t'lah tahu hati ini harus menghindar<br />Namun kenyataan ku tak bisa<br />Maafkan aku terlanjur mencinta</p><p><br />Bila memang hatimu untuk aku<br />Salahkah ku berharap<br />Berharap kau memilih diriku, cinta?</p><p><br />Tapi mengapa kita selalu bertemu?<br />Aku t'lah tahu hati ini harus menghindar<br />Namun kenyataan ku tak bisa<br />Maafkan aku terlanjur mencinta</p><p><br />Tapi mengapa kita s'lalu bertemu? (S'lalu bertemu)<br />Aku t'lah tahu hati ini harus menghindar<br />Namun kenyataan ku tak bisa<br />Maafkan aku terlanjur mencinta</p><p><br />Ternyata hati tak sanggup melupa<br />Hm-mm</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "TERBARU",
+    "title": "GEMINTANG HATIKU",
+    "image": "file:///android_asset/image/LYD.jpg",
+    "link_mp3": "mp3/LYLEDO9.mp3",
+    "lyrics": "<p>Sejak pertama bertemu dirinya<br />Hati tak bisa berpaling darinya<br />Tak ada setitik ragu<br />Jalani sisa hidup bersama</p><p><br />Hati ini terbius candu asmaramu<br />Namamu melintang dihatiku<br />Kemilau gemintang dihatiku<br />Senyumanmu oh kasih hiasi bingkai asmaraku<br />Kau menjadi bintang dihatiku<br />Kemilau gemintang dihatiku</p><p><br />Meski mentari terangi dunia<br />Sinar matamu kalahkan semua cahaya<br />Tak ada setitik ragu<br />Jalani sisa hidup bersama</p><p><br />Hati ini terbius candu asmaramu<br />Namamu melintang dihatiku<br />Kemilau gemintang dihatiku<br />Senyumanmu oh kasih hiasi bingkai asmaraku<br />Kau menjadi bintang dihatiku<br />Kemilau gemintang dihatiku</p><p><br />Tak ada kata yang mampu melukiskan rasa huh (tak ada kata melukiskan rasa)<br />Cerita antara kita berdua oh oh<br />Wahai pelita nurani<br />Sinarmu terang abadi</p><p><br />Hati ini terbius candu asmaramu<br />Namamu melintang dihatiku<br />Kemilau gemintang dihatiku<br />Selamanya (oh kasih)<br />Hiasi bingkai asmaraku<br />Kau menjadi bintang dihatiku<br />Kemilau gemintang dihatiku</p><p><br />Sinar kelam kelam malamku<br />Kini terang karena cintamu<br />Bersinarlah gemintang hatiku</p>"
+  },
+  {
+    "id": 10,
+    "name_category": "TERBARU",
+    "title": "HATI YANG KAU SAKITI",
+    "image": "file:///android_asset/image/LYD.jpg",
+    "link_mp3": "mp3/LYLEDO10.mp3",
+    "lyrics": "<p>Jangan pernah katakan bahwa<br />Cintamu hanyalah untukku<br />Karena kini kau telah membaginya</p><p><br />Maafkan jika memang kini<br />Harus kutinggalkan dirimu<br />Karena hatiku selalu kau lukai</p><p><br />Tak ada lagi yang bisa 'ku<br />Lakukan tanpamu<br />'Ku hanya bisa mengatakan<br />Apa yang kurasa</p><p><br />'Ku menangis membayangkan<br />Betapa kejamnya dirimu atas diriku<br />Kau duakan cinta ini<br />Kau pergi bersamany</p><p><br />'Ku menangis melepaskan<br />Kepergian dirimu dari sisi hidupku<br />Harus selalu kau tahu<br />Akulah hati yang telah kau sakiti</p><p><br />Maafkan jika memang kini<br />Harus kutinggalkan dirimu<br />Karena hatiku selalu kau lukai</p><p><br />Tak ada lagi yang bisa 'ku<br />Lakukan tanpamu<br />'Ku hanya bisa mengatakan<br />Apa yang kurasa</p><p><br />'Ku menangis membayangkan<br />Betapa kejamnya dirimu atas diriku<br />Kau duakan cinta ini<br />Kau pergi bersamanya</p><p><br />Ho-o-o-ho ...</p><p><br />'Ku menangis melepaskan<br />Kepergian dirimu dari sisi hidupku<br />Harus selalu kau tahu<br />Akulah hati yang telah kau sakiti</p><p><br />'Ku menangis<br />Ho-o-o-ho ...<br />Harus selalu kau tahu<br />Akulah hati yang telah<br />Ho-o-o ...<br />Kau sakiti</p>"
+  },
+  {
+    "id": 11,
+    "name_category": "TERBARU",
+    "title": "SECRET LOVE",
+    "image": "file:///android_asset/image/LYD.jpg",
+    "link_mp3": "mp3/LYLEDO11.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 12,
+    "name_category": "TERBARU",
+    "title": "THE PRAYER",
+    "image": "file:///android_asset/image/LYD.jpg",
+    "link_mp3": "mp3/LYLEDO12.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "name_category": "TERBARU",
+    "title": "JIKALAU CINTA",
+    "image": "file:///android_asset/image/LYD.jpg",
+    "link_mp3": "mp3/LYLEDO13.mp3",
+    "lyrics": "<p>Jikalau kau cinta, benar-benar cinta<br />Jangan katakan kamu tidak cinta<br />Jikalau kau sayang, benar-benar sayang<br />Tak hanya kata atau rasa, kau harus tunjukkan</p><p><br />Jangan sampai<br />Hingga waktu perpisahan tiba<br />Dan semua yang tersisa hanyalah air mata<br />Hanya air mata</p><p><br />Mungkin saja<br />Cinta 'kan menghilang selamanya<br />Dan semua yang tersisa hanyalah air mata<br />Hanya air mata cinta</p><p><br />Jikalau kau sayang, benar-benar sayang<br />Tak hanya kata atau rasa, kau harus tunjukkan</p><p><br />Oh-wo-oh (percayalah)<br />Oh-wo-oh (percayalah)<br />(Percayalah)</p><p><br />Ke mana pun kau acuh<br />Cinta tak pernah rapuh<br />Berpaling pun tak mampu hilangkan cinta<br />Percayalah</p><p><br />Jangan sampai<br />Hingga waktu perpisahan tiba<br />Dan semua yang tersisa hanyalah air mata<br />Hanya air mata</p><p><br />Mungkin saja<br />Cinta 'kan menghilang selamanya<br />Dan semua yang tersisa hanyalah air mata<br />Hanya air mata</p><p><br />Hanya air mata<br />Hanya air mata<br />Cinta</p>"
+  },
+  {
+    "id": 14,
+    "name_category": "TERBARU",
+    "title": "BUKTI",
+    "image": "file:///android_asset/image/LYD.jpg",
+    "link_mp3": "mp3/LYLEDO14.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "LENGKAP",
+    "title": "IN TO THE UNKNOWN",
+    "image": "file:///android_asset/image/LYY.jpg",
+    "link_mp3": "mp3/LYLEDO15.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 16,
+    "name_category": "LENGKAP",
+    "title": "LAKSMANA RAJA DILAUT",
+    "image": "file:///android_asset/image/LYY.jpg",
+    "link_mp3": "mp3/LYLEDO16.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "LENGKAP",
+    "title": "SYMPHONY YANG INDAH",
+    "image": "file:///android_asset/image/LYY.jpg",
+    "link_mp3": "mp3/LYLEDO17.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "LENGKAP",
+    "title": "CONTE PARTIRO",
+    "image": "file:///android_asset/image/LYY.jpg",
+    "link_mp3": "mp3/LYLEDO18.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "LENGKAP",
+    "title": "I TALL COMING BACK TO ME",
+    "image": "file:///android_asset/image/LYY.jpg",
+    "link_mp3": "mp3/LYLEDO19.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "LENGKAP",
+    "title": "7 RINGS",
+    "image": "file:///android_asset/image/LYY.jpg",
+    "link_mp3": "mp3/LYLEDO20.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "LENGKAP",
+    "title": "REKAYASA CINTA",
+    "image": "file:///android_asset/image/LYY.jpg",
+    "link_mp3": "mp3/LYLEDO21.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "LENGKAP",
+    "title": "MENUNGGU KAMU",
+    "image": "file:///android_asset/image/LYY.jpg",
+    "link_mp3": "mp3/LYLEDO22.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "LENGKAP",
+    "title": "I WILL SURVIVE",
+    "image": "file:///android_asset/image/LYY.jpg",
+    "link_mp3": "mp3/LYLEDO23.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "LENGKAP",
+    "title": "SEBUAH RASA",
+    "image": "file:///android_asset/image/LYY.jpg",
+    "link_mp3": "mp3/LYLEDO24.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "LENGKAP",
+    "title": "SIDE TO SIDE",
+    "image": "file:///android_asset/image/LYY.jpg",
+    "link_mp3": "mp3/LYLEDO25.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "LENGKAP",
+    "title": "TILL IT HURTS",
+    "image": "file:///android_asset/image/LYY.jpg",
+    "link_mp3": "mp3/LYLEDO26.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 27,
+    "name_category": "LENGKAP",
+    "title": "MERASA INDAH",
+    "image": "file:///android_asset/image/LYY.jpg",
+    "link_mp3": "mp3/LYLEDO27.mp3",
+    "lyrics": ""
+  }
+  ]
+}
