@@ -1,0 +1,188 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "LENGKAP",
+    "image": "file:///android_asset/image/ADA.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "LENGKAP",
+      "image": "file:///android_asset/image/ADB.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "title": "RUNTAH",
+    "image": "file:///android_asset/image/ADA.jpg",
+    "link_mp3": "mp3/BADEDORST1.ogg",
+    "lyrics": ""
+  },
+    {
+      "id": 2,
+      "name_category": "TERBARU",
+      "title": "DUA LALAKI",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/BADEDORST2.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "TERBARU",
+      "title": "MIDUA CINTA",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/BADEDORST3.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "TERBARU",
+      "title": "TERLALU SAYANG",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/BADEDORST4.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "TERBARU",
+      "title": "BULEUD",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/BADEDORST5.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "TERBARU",
+      "title": "BEBENDE",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/BADEDORST6.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "TERBARU",
+      "title": "KASIH",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/BADEDORST7.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "TERBARU",
+      "title": "GALA GALA",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/BADEDORST8.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "TERBARU",
+      "title": "TIARA",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/BADEDORST9.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "TERBARU",
+      "title": "GARUT INTAN",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/BADEDORST10.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "LENGKAP",
+      "title": "ADE BUYUNG",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/BADEDORST11.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "LENGKAP",
+      "title": "BEBENDE",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/BADEDORST12.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "LENGKAP",
+      "title": "BERDIRI BULU ROMAKU",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/BADEDORST13.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "LENGKAP",
+      "title": "DASAR JODO",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/BADEDORST14.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "LENGKAP",
+      "title": "DURIAT PEGAT",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/BADEDORST15.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "LENGKAP",
+      "title": "MAPAY ROKO",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/BADEDORST16.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "LENGKAP",
+      "title": "NISTA",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/BADEDORST17.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "LENGKAP",
+      "title": "PECAH SERIBU",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/BADEDORST18.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "LENGKAP",
+      "title": "SONIA",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/BADEDORST19.ogg",
+      "lyrics": ""
+    }
+  ]
+}
