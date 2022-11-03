@@ -1,0 +1,220 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "image": "file:///android_asset/image/AHA.png"
+  },
+    {
+      "id": 2,
+      "name_category": "LENGKAP",
+      "image": "file:///android_asset/image/AHB.png"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "title": "RUNGKAD",
+    "image": "file:///android_asset/image/AHA.png",
+    "link_mp3": "mp3/RAKADPY1.mp3",
+    "lyrics": "<p>Mungkin<br />Aku Terlalu Cinta<br />Aku Terlalu Sayang Nganti<br />Ra Kroso Dilarani</p><p><br />Pancen<br />Ku Akui Kusalah<br />Terlalu Percoyo Mergo<br />Mung Nyawang Rupo</p><p><br />Saiki Aku Wes Sadar<br />Terlalu Goblok Mencintaimu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Mungkin<br />Aku Terlalu Cinta<br />Aku Terlalu Sayang Nganti<br />Ra Kroso Dilarani</p><p><br />Pancen<br />Ku Akui Kusalah<br />Terlalu Percoyo Mergo<br />Mung Nyawang Rupo</p><p><br />Saiki Aku Wes Sadar<br />Terlalu Goblok Mencintaimu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Stop Mencintaimu<br />Gawe Aku Ngelu</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "TERBARU",
+    "title": "TETEG ATI",
+    "image": "file:///android_asset/image/AHA.png",
+    "link_mp3": "mp3/RAKADPY2.mp3",
+    "lyrics": "<p>Ning pungkasan srengenge sore iki<br />Atiku iseh roso sumpek<br />Nanging sempet mikerke sliramu<br />Sing tak tresnani</p><p><br />Ning pungkasan rembulan wengi iki<br />Atiku iseh milih berjuang bertahan<br />Korban ati perasaan kanggo sliramu<br />Koco iki dadi seksi pedihe atiku<br />Kowe gawe ati sing tak jogo dadi gelo</p><p><br />Bola bali kowe sing salah<br />Nanging aku sing disalahke e</p><p>Mas perlu dingerteni<br />Tetegke atiku wis koyo ibumu<br />Ora tau nggersulo ngadepi polahmu<br />Sing nggawe atiku atiku tatu</p><p><br />Ning pungkasan rembulan wengi iki<br />Atiku iseh milih berjuang bertahan<br />Korban ati perasaan kanggo sliramu<br />Koco iki dadi seksi pedihe atiku<br />Kowe gawe ati sing tak jogo dadi gelo</p><p>Bola bali kowe sing salah<br />Nanging aku sing disalahne ee</p><p><br />Wis rapopo aku sing disalahno<br />Tapi elingo cen aku sing lilo<br />Dadi payung naliko udane teko</p><p><br />Mas perlu dingerteni<br />Tetegke atiku wis koyo ibumu<br />Ora tau nggersulo ngadepi polahmu<br />Sing nggawe atiku atiku tatu</p><p><br />Senajan kowe mung nyepelekke<br />Nanging ati iki tetep tak kuatke<br />Sumpah ati iki</p><p><br />Setiyoku mung kanggo kowe<br />Selawase bebarengan karo kowe<br />Selawase ora bakal tak liyakke<br />Selawase tetep teteg atine</p><p><br />Tetep teteg atine</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "TERBARU",
+    "title": "KOK ISO YO",
+    "image": "file:///android_asset/image/AHA.png",
+    "link_mp3": "mp3/RAKADPY3.mp3",
+    "lyrics": "<p>Kok iso yo?<br />Kok tegel yo?<br />Opo salahku?<br />Ning endi luputku?</p><p><br />Wong sing ra sepiro<br />Koyo aku iki<br />Masalah asmoro, mung kebagian loro</p><p><br />Ditinggal lungo, alesan ra cetho<br />Mergo ngaboti tresno anyarmu sing liyo<br />Gusti, tulung paringono<br />Ati sing kuat (ati sing kuat)<br />Kanggo ngadepi asmoro ugal-ugalan</p><p><br />Wayah mongso udan teko (wayah mongso udan teko)<br />Howo adhem featuring-an loro<br />Durung siap nompo kenyataan<br />Kowe disanding wong liyo</p><p><br />Durung nganti garing lorone atiku<br />Uwis mbok tambahi kenyataan nggo ngadepi<br />Sliramu saiki disanding wong liyo</p><p><br />Tau nekat ku mencintaimu<br />Nanging kowe malah milih ngeboti tresno liyane<br />Ternyata aku dudu siji-sijine</p><p><br />Kok iso yo? (Kok iso yo?)<br />Kok tegel yo? (Kok tegel yo?)<br />Wong koyo aku<br />Masalah asmoro, mung kebagian loro</p><p><br />Tibo wayah mongso udan teko<br />Howo adhem featuring-an loro<br />Durung siap nompo kenyataan<br />Kowe disanding wong liyo</p><p><br />Durung nganti garing lorone atiku<br />Uwis mbok tambahi kenyataan nggo ngadepi<br />Sliramu saiki disanding wong liyo</p><p><br />Tau nekat ku mencintaimu<br />Nanging kowe malah milih ngeboti tresno liyane<br />Ternyata aku dudu siji-sijine</p><p><br />Kok iso yo?</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "TERBARU",
+    "title": "KLEBUS",
+    "image": "file:///android_asset/image/AHA.png",
+    "link_mp3": "mp3/RAKADPY4.mp3",
+    "lyrics": "<p>Dalane rame atiku sepi<br />Angen angen tresno dibales tresno<br />Nyatane tresno dibales maturnuwun<br />Uwis nyaman, sempet sayang, kok malah ngilang</p><p><br />Meh lungo angel bertahan loro<br />Nyobo selalu ono meski koe raono roso<br />Roso sing jebul tak rasakne dewe<br />Kebacut sayang, ngek i harapan, koe milih liyane</p><p><br />Langit e peteng, udane soyo deres klebus tekan atiku<br />Cedak e karo aku, nanging atimu dinggo wong liyo</p><p><br />Wis dalane dadi pelarian dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane, bagian sing nglarani aku wae</p><p><br />Langit e peteng, udane soyo deres klebus tekan atiku<br />Cedak e karo aku, nanging atimu dinggo wong liyo</p><p><br />Wis dalane dadi pelarian dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane, bagian sing nglarani</p><p><br />Wis dalane dadi pelarian dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane, bagian sing nglarani aku wae<br />Bagianmu koyo biasane, bagian sing nglarani aku wae</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "TERBARU",
+    "title": "KESUCIAN ATI",
+    "image": "file:///android_asset/image/AHA.png",
+    "link_mp3": "mp3/RAKADPY5.mp3",
+    "lyrics": "<p>Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iki wujude tekan riko</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo, kesucian ati</p><p><br />Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iki wujude tekan riko</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo, kesucian ati</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo, kesucian ati, kesucian ati</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "TERBARU",
+    "title": "LEMAH TELES",
+    "image": "file:///android_asset/image/AHA.png",
+    "link_mp3": "mp3/RAKADPY6.mp3",
+    "lyrics": "<p>Jujur ati iki loro<br />Durung biso nompo kenyataan<br />Tanduran sing wes tak sirami<br />Malih dadi awu ireng diobong karo kahanan</p><p><br />Biyen janji bareng-bareng<br />Ngrasakne susah lan seneng<br />Saiki kowe medotke angen-angen<br />Tak kuatne ati yen kudu kelangan, hoo-oo</p><p><br />Kowe mbelok ngiwo nengen tanpo nguwasne mburi<br />Tak tabrak kowe loro iki salahe sopo<br />Yen kowe wes ra tresno ngomong ojo trus lungo<br />Awas nemoni apes lemah teles gusti sing bakal mbales</p><p><br />Jujur ati iki loro<br />Durung biso nompo kenyataan<br />Tanduran sing wes tak sirami<br />Malih dadi awu ireng diobong karo kahanan</p><p><br />Biyen janji bareng-bareng<br />Ngrasakne susah lan seneng<br />Saiki kowe medotke angen-angen<br />Tak kuatne ati yen kudu kelangan</p><p><br />Kowe mbelok ngiwo nengen tanpo nguwasne mburi<br />Tak tabrak kowe loro iki salahe sopo<br />Yen kowe wes ra tresno ngomong ojo trus lungo<br />Awas nemoni apes lemah teles gusti sing bakal mbales</p><p><br />Kowe mbelok ngiwo nengen tanpo nguwasne mburi<br />Tak tabrak kowe loro iki salahe sopo<br />Yen kowe wes ra tresno ngomong ojo trus lungo<br />Awas nemoni apes lemah teles gusti sing bakal mbales<br />Lemah teles gusti sing bakal mbales</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "TERBARU",
+    "title": "OJO GOBOK MENCINTA",
+    "image": "file:///android_asset/image/AHA.png",
+    "link_mp3": "mp3/RAKADPY7.mp3",
+    "lyrics": "<p>Ojo gampang mikir tentang cinta<br />Mengko ndak malah luka<br />Ojo gampang mikir tentang cidro<br />Mengko ndak malah loro</p><p><br />Urip mung sepisan mbok yo digawe gampang<br />Kabeh iki wes ono dalan<br />Awak dewe ning ndunyo iki mung wayang<br />Kabeh uwis diatur dalang</p><p><br />Ojo nangis mergo tresno<br />Ojo goblok mencinta<br />Nek kejeron mengko malah luka<br />Loske wae jo dipikirke kabeh ono dalane<br />Happy aja lupakan yang menyakiti kita</p><p><br />Urip mung sepisan mbok yo digawe gampang<br />Kabeh iki wes ono dalan<br />Awak dewe ning ndunyo iki mung wayang<br />Kabeh uwis diatur dalang</p><p><br />Ojo nangis mergo tresno<br />Ojo goblok mencinta<br />Nek kejeron mengko malah luka<br />Loske wae jo dipikirke kabeh ono dalane<br />Happy aja lupakan yang menyakiti kita</p><p><br />Ojo nangis mergo tresno<br />Ojo goblok mencinta<br />Nek kejeron mengko malah luka<br />Loske wae jo dipikirke kabeh ono dalane<br />Happy aja lupakan yang menyakiti kita</p><p><br />Happy aja lupakan yang menyakiti kita</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "TERBARU",
+    "title": "JOKO TINGKIR",
+    "image": "file:///android_asset/image/AHA.png",
+    "link_mp3": "mp3/RAKADPY8.mp3",
+    "lyrics": "<p>Joko Tingkir ngombe dawet<br />Jo dipikir, marai mumet<br />Ngopek jamur nggone Mbah Wage<br />Pantang mundur, terus nyambut gawe<br />Pantang mundur, terus nyambut gawe</p><p><br />Ning Kediri tuku ketan<br />Iki crito anak rantauan<br />Lombok rawit, pedes tenan<br />Golek duit kanggo masa depan<br />Golek duit kanggo masa depan</p><p><br />Rokok klobot ning ngisor wit mlinjo<br />Paling abot ninggal anak-bojo<br />Tuku donat ning Kalimantan<br />Tetep s'mangat kanggo masa depan<br />Tetep s'mangat kanggo masa depan</p><p><br />Godong kenikir, godong koro<br />Jo dipikir aku arep ngeliyo<br />Mangan jamur, mangan koro<br />Aku jujur, kowe ra percoyo<br />Aku jujur, kowe ra percoyo</p><p><br />Joko Tingkir ngombe dawet<br />Jo dipikir, marai mumet<br />Ngopek jamur nggone Mbah Wage<br />Pantang mundur, terus nyambut gawe<br />Pantang mundur, terus nyambut gawe</p><p><br />Ning Kediri tuku ketan<br />Iki crito anak rantauan<br />Lombok rawit, pedes tenan<br />Golek duit kanggo masa depan<br />Golek duit kanggo masa depan</p><p><br />Rokok klobot ning ngisor wit mlinjo<br />Paling abot ninggal anak-bojo<br />Tuku donat ning Kalimantan<br />Tetep s'mangat kanggo masa depan<br />Tetep s'mangat kanggo masa depan</p><p><br />Godong kenikir, godong koro<br />Jo dipikir aku arep ngeliyo<br />Mangan jamur, mangan koro<br />Aku jujur, kowe ra percoyo<br />Aku jujur, kowe ra percoyo</p><p><br />Joko Tingkir ngombe dawet<br />Jo dipikir, marai mumet<br />Ngopek jamur nggone Mbah Wage<br />Pantang mundur, terus nyambut gawe<br />Pantang mundur, terus nyambut gawe</p><p><br />Ning Kediri tuku ketan<br />Iki crito anak rantauan<br />Lombok rawit, pedes tenan<br />Golek duit kanggo masa depan<br />Golek duit kanggo masa depan</p><p><br />Rokok klobot ning ngisor wit mlinjo<br />Paling abot ninggal anak-bojo<br />Tuku donat ning Kalimantan<br />Tetep s'mangat kanggo masa depan<br />Tetep s'mangat kanggo masa depan</p><p><br />Godong kenikir, godong koro<br />Jo dipikir aku arep ngeliyo<br />Mangan jamur, mangan koro<br />Aku jujur, kowe ra percoyo<br />Aku jujur, kowe ra percoyo</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "TERBARU",
+    "title": "TOP TOPAN",
+    "image": "file:///android_asset/image/AHA.png",
+    "link_mp3": "mp3/RAKADPY9.mp3",
+    "lyrics": "<p>Wes tak cobo ngempet lara<br />Wes tak cobo njogo tresno<br />Loro sing tok jalari ora tak rasake<br />Senadyan aku ngerti koe karo liyane</p><p><br />Cobo koe ono ning posisiku<br />Opo koe iso kuat atimu<br />Ngrasakke tok larani ning saben dinoku<br />Koe ra ngroso kok malah suloyo</p><p><br />Kulo pun angkat tangan atinipun ajur-ajuran<br />Kulo tak milih pamit ati kulo pun roso sakit</p><p><br />Ngapurane sayang aku udu wong top topan<br />Ora koyo idamanmu sing gampang nerobos atimu<br />Aku jane ngerti koe ghosting ati<br />Tak cobo goblok tetep mencintai sepenuh hati</p><p><br />Kulo pun angkat tangan atinipun ajur-ajuran<br />Kulo tak milih pamit ati kulo pun roso sakit</p><p><br />Ngapurane sayang aku udu wong top topan<br />Ora koyo idamanmu sing gampang nerobos atimu<br />Aku jane ngerti koe ghosting ati<br />Tak cobo goblok tetep mencintai sepenuh hati</p><p><br />Ngapurane sayang aku udu wong top topan<br />Ora koyo idamanmu sing gampang nerobos atimu<br />Aku jane ngerti koe ghosting ati<br />Tak cobo goblok tetep mencintai sepenuh hati</p><p><br />Ngapurane sayang aku udu wong top topan<br />Ora koyo idamanmu sing gampang nerobos atimu<br />Aku jane ngerti koe ghosting ati<br />Tak cobo goblok tetep mencintai sepenuh hati<br />Tak cobo goblok tetep mencintai sepenuh hati sepenuh hati</p>"
+  },
+  {
+    "id": 10,
+    "name_category": "TERBARU",
+    "title": "TIARA",
+    "image": "file:///android_asset/image/AHA.png",
+    "link_mp3": "mp3/RAKADPY10.mp3",
+    "lyrics": "<p>Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai<br />Cintaku yang suci ini</p><p><br />Tiara, menggamit kenangan zaman persekolahan<br />Tiara, kumimpi kita bersanding atas kayangan<br />Seakan bisa kusentuh peristiwa semalam<br />Di malam pesta engkau bisikkan kata azimat di telinga</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai<br />Cintaku yang suci ini</p><p><br />Oh Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh Tiara, pedihnya<br />Dapatkah engkau merasakan</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai<br />Cintaku yang suci ini</p><p><br />Oh Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh Tiara, pedihnya<br />Dapatkah engkau merasakan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai<br />Cintaku yang suci ini</p><p><br />Oh Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh Tiara, pedihnya<br />Dapatkah engkau merasakan</p>"
+  },
+  {
+    "id": 11,
+    "name_category": "TERBARU",
+    "title": "PINGAL",
+    "image": "file:///android_asset/image/AHA.png",
+    "link_mp3": "mp3/RAKADPY11.mp3",
+    "lyrics": "<p>Piye seng jelaske karo wong tuo<br />Wes ngelakoni tekan semene<br />Nek akhire bakal bubar pisahan<br />Koe kegodo tresno karo wong liyo</p><p><br />Ngelali, koe sing tau ngomong dewe<br />Nglakoni tresno tekan tuo<br />Ora ngeliyo, mung aku ning atimu<br />Nanging saiki atimu ono wong liyo</p><p><br />Ibarat esuk mendung<br />Awan aku kudanan<br />Sore mbok larani<br />Bengi tak tangisi</p><p><br />Mung isoh mbayangke kabeh kenangan<br />Koe tak boncengke turut ndalan kekepan kudanan<br />Saiki nyatane koe malah milih<br />Dikekep wong liyo</p><p><br />Opo koe ra kroso abote atiku<br />Kudu kelangan wong sing paling tak tresnani<br />Ra jenak dolan, ra doyan mangan<br />Nek ra mbok dulang</p><p><br />Ibarat esuk mendung<br />Awan aku kudanan<br />Sore mbok larani<br />Bengi tak tangisi</p><p><br />Mung isoh bayangke kabeh kenangan<br />Koe tak boncengke turut ndalan kekepan kudanan<br />Saiki nyatane koe malah milih<br />Dikekep wong liyo, hoo</p><p><br />Opo koe ra kroso abote atiku<br />Kudu kelangan wong sing paling tak tresnani<br />Ra jenak dolan, ra doyan mangan<br />Nek ra mbok dulang</p><p><br />Ra jenak dolan, ra doyan mangan<br />Nek ra mbok dulang</p>"
+  },
+  {
+    "id": 12,
+    "name_category": "TERBARU",
+    "title": "WES TATAS",
+    "image": "file:///android_asset/image/AHA.png",
+    "link_mp3": "mp3/RAKADPY12.mp3",
+    "lyrics": "<p>Layangan seng tatas<br />Tondo tresno ku wes pungkas<br />Mabur duwur ngalang ngalang<br />Yen nibo dadi kenangan</p><p><br />Koe seng tak eman eman<br />Ninggal ke roso kelaran<br />Opo iki wes takdir e<br />Aku iklas aku pasrah wes tak ngalah</p><p><br />Tak eleng eleng bien tau ngomong opo<br />Arep ngancani aku nganti tekan pungkase umurku<br />Nanging sak iki ne koe ninggal janjine<br />Ibarat banyu mili wes tekan segoro</p><p><br />Cobo dadi aku kuat po atimu<br />Meski koe sambat ora kuat<br />Aku uwes ora pengin loro<br />Atiku wes tenang wes tak anggep ilang</p><p><br />Layangan seng tatas<br />Tondo tresno ku wes pungkas<br />Mabur duwur ngalang ngalang<br />Yen nibo dadi kenangan</p><p><br />Koe seng tak eman eman<br />Ninggal ke roso kelaran<br />Opo iki wes takdir e<br />Aku iklas aku pasrah wes tak ngalah</p><p><br />Cobo dadi aku kuat po atimu<br />Mesti koe sambat ora kuat<br />Aku uwes ora pengin loro<br />Atiku wes tenang wes tak anggep ilang</p><p><br />Layangan seng tatas<br />Tondo tresno ku wes pungkas<br />Mabur duwur ngalang ngalang<br />Yen nibo dadi kenangan<br />Koe seng tak eman eman<br />Ninggal ke roso kelaran<br />Opo iki wes takdir e<br />Aku iklas aku pasrah wes tak ngalah</p><p><br />Layangan seng tatas<br />Tondo tresno ku wes pungkas<br />Mabur duwur ngalang ngalang<br />Yen nibo dadi kenangan<br />Koe seng tak eman eman<br />Ninggal ke roso kelaran<br />Opo iki wes takdir e<br />Aku iklas aku pasrah wes tak ngalah</p>"
+  },
+  {
+    "id": 13,
+    "name_category": "LENGKAP",
+    "title": "YO WIS",
+    "image": "file:///android_asset/image/AHB.png",
+    "link_mp3": "mp3/RAKADPY13.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "LENGKAP",
+    "title": "ADA UNTUKMU",
+    "image": "file:///android_asset/image/AHB.png",
+    "link_mp3": "mp3/RAKADPY14.mp3",
+    "lyrics": "<p>Awalku mengenalmu<br />Tersita seluruh hatiku<br />Oh indahnya dirimu<br />Ku jatuh hati padamu</p><p><br />Tak terasa waktu berlalu<br />Kini kau t&rsquo;lah jadi milikku<br />Betapa bahagianya aku<br />Saat kau ada di sisiku</p><p><br />Kini tiba saatnya<br />Kita harus melangkah<br />Temani diriku di sisa waktumu</p><p><br />Genggamlah tanganku bersamaku<br />Kau kan menentukan arah<br />Bersama diriku yang kan slalu<br />Menjaga dirimu</p><p><br />Yakinkan hatimu temaniku<br />Di setiap langkah-langkah ku<br />Ku di sini di sampingmu<br />Ku kan slalu ada untukmu</p><p><br />Kini tiba saatnya<br />Kita harus melangkah<br />Temani diriku di sisa waktumu</p><p><br />Genggamlah tanganku bersamaku<br />Kau kan menentukan arah<br />Bersama diriku yang kan slalu<br />Menjaga dirimu</p><p><br />Yakinkan hatimu temaniku<br />Di setiap langkah-langkah ku<br />Ku di sini di sampingmu<br />Ku kan slalu ada untukmu</p><p><br />Genggamlah tanganku bersamaku<br />Kau kan menentukan arah<br />Bersama diriku yang kan slalu<br />Menjaga dirimu</p><p><br />Yakinkan hatimu temaniku<br />Di setiap langkah-langkah ku<br />Ku di sini di sampingmu<br />Ku kan slalu ada untukmu</p><p><br />Genggamlah tanganku bersamaku<br />Kau kan menentukan arah<br />Bersama diriku yang kan slalu<br />Menjaga dirimu</p><p><br />Yakinkan hatimu temaniku<br />Di setiap langkah-langkah ku<br />Ku di sini di sampingmu<br />Ku kan selalu</p><p><br />Ku di sini di sampingmu<br />Ku kan slalu ada untukmu</p>"
+  },
+  {
+    "id": 15,
+    "name_category": "LENGKAP",
+    "title": "CIDRO 3",
+    "image": "file:///android_asset/image/AHB.png",
+    "link_mp3": "mp3/RAKADPY15.mp3",
+    "lyrics": "<p>Ora Perpisahan Sing Dadi Getuning Atii<br />Nanging Nyapo Mbiyen Kowe Tak Senengi<br />Nyenengi Sliramu Gawe Loro Atiku<br />Getune Nyapo Mbiyen Ketemu</p><p><br />Jare Kowe Wes Ngukir Jenengku<br />Mbok Patri Ning Njero Atimu<br />Yen Iling Mbiyen Karo Janjimu<br />Tresnomu Mung Siji Yo Aku<br />Ningopo Saikine Cidro<br />Kabeh Omongmu Kuwi Gombal Mukiyo</p><p><br />Sopo Wonge Sing Ra Bakal Tatu<br />Nyenengi Wong Koyo Sliramu<br />Ngomong Cinta Sayang Mung Ning Aku<br />Janji Setiyo Sak Umur Uripmu<br />Ningopo Sak Ikine Tego<br />Ning Ngarep Moto Kowe<br />Nggandeng Wong Liyo</p><p><br />HohohohoKeiris Atiku</p><p><br />REFF<br />Ancen Rogo Iki Ora Nggetih Senajan Tatu<br />Mergo Roso Perihe Ning Njero Dodoku<br />Gulone Manis Isih Manis Madu<br />Mergane Sing Mbok Iris Atiku</p><p><br />Sopo Wonge Sing Ra Bakal Tatu<br />Nyenengi Wong Koyo Sliramu<br />Ngomong Cinta Sayang Mung Ning Aku<br />Janji Setiyo Sak Umur Uripmu<br />Ningopo Sak Ikine Tego<br />Ning Ngarep Moto Kowe<br />Nggandeng Wong Liyo</p><p><br />HohohohoKeiris Atiku<br />Ancen Rogo Iki Ora Nggetih Senajan Tatu<br />Mergo Roso Perihe Ning Njero Dodoku<br />Gulone Manis Isih Manis Madu<br />Mergane Sing Mbok Iris Atiku<br />Ora Perpisahan Sing Dadi Getuning Atii<br />Nanging Nyapo Mbiyen Kowe Tak Senengi<br />Nyenengi Sliramu Gawe Loro Atiku<br />Getune Nyapo Mbiyen Ketemu <br />Getune Nyapo Mbiyen Ketemu</p></p>"
+  },
+  {
+    "id": 16,
+    "name_category": "LENGKAP",
+    "title": "DERMAGA BIRU",
+    "image": "file:///android_asset/image/AHB.png",
+    "link_mp3": "mp3/RAKADPY16.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "LENGKAP",
+    "title": "MADIUN NGAWI",
+    "image": "file:///android_asset/image/AHB.png",
+    "link_mp3": "mp3/RAKADPY17.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "LENGKAP",
+    "title": "OJO NANGIS",
+    "image": "file:///android_asset/image/AHB.png",
+    "link_mp3": "mp3/RAKADPY18.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "LENGKAP",
+    "title": "PECAH SERIBU",
+    "image": "file:///android_asset/image/AHB.png",
+    "link_mp3": "mp3/RAKADPY19.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "LENGKAP",
+    "title": "SEPINE WENGI",
+    "image": "file:///android_asset/image/AHB.png",
+    "link_mp3": "mp3/RAKADPY20.mp3",
+    "lyrics": "<p>Cobo sawangen langit wengi iki<br />Kemerlip lintang nambahi kangene ati<br />Opo ra kelingan naliko pacaran?<br />Kowe nate janji ra bakal mbok blenjani</p><p><br />Nanging saiki kowe ono ngendi?<br />Tekomu tanpo semayan, lungamu tanpo pamitan<br />Ning kene aku ngenteni sliramu karo dedungo<br />Mugo awakmu ning kono biso bahagio<br />Aku ra bakal dolanan sing jenenge tresno iki<br />Yen ujunge bakalan aku nandang loro ati</p><p><br />Loro ati</p><p><br />Mbok blenjani</p><p><br />Loro ati</p><p><br />Cobo sawangen langit wengi iki<br />Kemerlip lintang nambahi kangene ati<br />Opo ra kelingan naliko pacaran?<br />Kowe nate janji ra bakal mbok blenjani</p><p><br />Nanging saiki kowe ono ngendi?<br />Tekomu tanpo semayan, lungamu tanpo pamitan<br />Ning kene aku ngenteni sliramu karo dedungo<br />Mugo awakmu ning kono biso bahagio<br />Aku ra bakal dolanan sing jenenge tresno iki<br />Yen ujunge bakalan aku nandang loro ati</p><p><br />Nanging saiki kowe ono ngendi?<br />Tekomu tanpo semayan, lungamu tanpo pamitan<br />Ning kene aku ngenteni sliramu karo dedungo<br />Mugo awakmu ning kono biso bahagio<br />Aku ra bakal dolanan sing jenenge tresno iki<br />Yen ujunge bakalan aku nandang loro ati</p><p><br />Yen ujunge bakalan aku nandang loro ati</p>"
+  },
+  {
+    "id": 21,
+    "name_category": "LENGKAP",
+    "title": "SATRU 2",
+    "image": "file:///android_asset/image/AHB.png",
+    "link_mp3": "mp3/RAKADPY21.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "LENGKAP",
+    "title": "TAK SELAMANYA SELUNGKUH ITU INDAH",
+    "image": "file:///android_asset/image/AHB.png",
+    "link_mp3": "mp3/RAKADPY22.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "LENGKAP",
+    "title": "TAK TUNGGU BALIMU",
+    "image": "file:///android_asset/image/AHB.png",
+    "link_mp3": "mp3/RAKADPY23.mp3",
+    "lyrics": ""
+  }
+  ]
+}
